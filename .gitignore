@@ -1,4 +1,4 @@
 # git ignore
-blog/secret.json
+inventario/secret.json
 #
-blog/applications/users/migrations/*
+inventario/applications/users/migrations/*
